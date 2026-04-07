@@ -1,0 +1,7 @@
+import 'package:flutter/material.dart';
+import 'start_screen.dart';
+import 'question.dart';
+import 'quiz.dart';
+void main(){
+  runApp(const Quiz());
+}
